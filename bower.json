@@ -1,0 +1,23 @@
+{
+  "name": "roboto-slab-fontface",
+  "description": "The Roboto Slab fontface",
+  "main": "./roboto-slab.css",
+  "authors": [
+    "Alexel Avdeev <aad.jerry@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "font",
+    "robotoslab",
+    "fontface"
+  ],
+  "homepage": "https://github.com/avdeev/roboto-slab",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

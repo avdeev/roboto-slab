@@ -1,0 +1,24 @@
+{
+  "name": "roboto-slab-fontface",
+  "version": "1.0.0",
+  "description": "The Roboto Slab fontface",
+  "main": "./roboto-slab.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avdeev/roboto-slab.git"
+  },
+  "keywords": [
+    "font",
+    "robotoslab",
+    "fontface"
+  ],
+  "author": "Alexel Avdeev <aad.jerry@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avdeev/roboto-slab/issues"
+  },
+  "homepage": "https://github.com/avdeev/roboto-slab#readme"
+}
