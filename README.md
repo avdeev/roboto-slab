@@ -2,9 +2,14 @@
 
 I split the SASS file, so the developer can decide which fonts and styles she or he really needs.
 
-Installable via [Bower](http://twitter.github.com/bower/):
+Installable via Bower
 ```
 bower install roboto-slab-fontface-kit
+```
+
+Installable via NPM
+```
+npm i roboto-slab-fontface-kit
 ```
 
 ## Demo
