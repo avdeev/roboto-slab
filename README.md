@@ -4,13 +4,13 @@ I split the SASS file, so the developer can decide which fonts and styles she or
 
 Installable via [Bower](http://twitter.github.com/bower/):
 ```
-bower install roboto-slab-fontface
+bower install roboto-slab-fontface-kit
 ```
 
 ## Demo
-__Our repository:__ [http://avdeev.github.com/open-sans](http://avdeev.github.com/open-sans)
+__Our repository:__ http://avdeev.github.com/open-sans
 
-__Google Web Fonts:__ [https://www.google.com/fonts/specimen/Roboto+Slab](https://www.google.com/fonts/specimen/Roboto+Slab)
+__Google Web Fonts:__ https://www.google.com/fonts/specimen/Roboto+Slab
 
 ## Credits
 Be inspired by https://github.com/FontFaceKit
