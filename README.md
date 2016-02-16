@@ -8,7 +8,7 @@ bower install roboto-slab-fontface-kit
 ```
 
 ## Demo
-__Our repository:__ http://avdeev.github.com/open-sans
+__Our repository:__ http://avdeev.github.io/roboto-slab/
 
 __Google Web Fonts:__ https://www.google.com/fonts/specimen/Roboto+Slab
 
