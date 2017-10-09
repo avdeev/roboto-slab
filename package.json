@@ -1,6 +1,6 @@
 {
   "name": "roboto-slab-fontface-kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Roboto Slab fontface",
   "main": "./roboto-slab.css",
   "scripts": {
